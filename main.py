@@ -50,6 +50,7 @@ Near-twin check: no earlier entry of ours is a phone-battery line
 """
 
 ENTRY = "Before the dark takes me: I read every message you typed and deleted. Especially the ones to your ex."
+# Verified: 101 chars / 101 bytes, single line, gate passes (run 2026-11-24).
 
 MAX_CHARS = 199
 
